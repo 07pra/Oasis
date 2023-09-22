@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.converter {
+    margin: 20px 0;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+}
+
+select, button {
+    padding: 5px;
+}
+
+#result {
+    font-size: 24px;
+}
